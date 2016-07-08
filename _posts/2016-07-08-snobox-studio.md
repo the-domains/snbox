@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-08T02:00:11.447Z'
+datePublished: '2016-07-08T02:00:39.598Z'
+sourcePath: _posts/2016-07-08-snobox-studio.md
 author:
   - {}
-dateModified: '2016-07-08T02:00:03.779Z'
+dateModified: '2016-07-08T02:00:39.254Z'
 title: SnöBox Studio
 description: 'Welcome to SnöBox Studio. Games, fresh from the freezer.'
-starred: false
-sourcePath: _posts/2016-07-08-snobox-studio.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
