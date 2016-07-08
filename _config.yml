@@ -1,0 +1,14 @@
+layout_spectrum: 0.2027776357717812
+typography_spectrum: 0.19647454912774265
+color:
+  brandStrength: 0.4489777460694313
+  lightness: 0.06626392365433276
+  saturation: 0.6770597994327545
+  rhythmicContrast: 0.18878839095123112
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: SnöBox
