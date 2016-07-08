@@ -4,8 +4,15 @@
         <description><![CDATA[SnöBox]]></description>
         <link>https://thegrid.ai/snbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:27:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SnöBox Studio]]></title>
+            <description><![CDATA[<article><h1>SnöBox Studio</h1><p>Welcome to SnöBox Studio. Games, fresh from the freezer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f916c3ec-f58d-408d-912a-8a1be4315a9f.png"></article>]]></description>
+            <link>https://thegrid.ai/snbox/snobox-studio/index.html</link>
+            <guid isPermaLink="false">37d9b07c-3f9b-4892-8060-8c8982080190</guid>
+            <pubDate>Fri, 08 Jul 2016 02:00:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>We love tower defense games, as I'm sure a lot of people do. Sketcher-D is an odd (but strangely satisfying) combination of tower defense, guitar hero and an endless shooter. You play from 1st person view as endless geometric monsters approach. Your only defense is to tap chevrons of corresponding colours (blue kills blue, red kills red, etc.)</p></article>]]></description>
@@ -14,11 +21,11 @@
             <pubDate>Fri, 08 Jul 2016 01:53:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SnöBox Studio]]></title>
-            <description><![CDATA[<article><h1>SnöBox Studio</h1><p>Welcome to SnöBox Studio. Games, fresh from the freezer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f916c3ec-f58d-408d-912a-8a1be4315a9f.png"></article>]]></description>
-            <link>https://thegrid.ai/snbox/snobox-studio/index.html</link>
-            <guid isPermaLink="false">37d9b07c-3f9b-4892-8060-8c8982080190</guid>
-            <pubDate>Fri, 08 Jul 2016 02:00:11 GMT</pubDate>
+            <title><![CDATA[Try Trump Jump, today!]]></title>
+            <description><![CDATA[<article><h1>Try Trump Jump, today!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/718a5830-cfb2-4631-83ec-f8a4d4aa9ce1.jpg"></article>]]></description>
+            <link>http://trump.game/</link>
+            <guid isPermaLink="false">336c18d8-375e-421e-8110-626768a0c764</guid>
+            <pubDate>Fri, 08 Jul 2016 02:27:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
